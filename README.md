@@ -36,8 +36,8 @@ Computer Engineering | Software Development & Automation | Creative Technology
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yuri-Samoura-Martiniano&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuri-Samoura-Martiniano&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ysmartiniano&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysmartiniano&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="170" />
 </div>
 
 ---
